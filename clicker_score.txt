@@ -1,0 +1,1 @@
+{"pseudo": "kurai", "server": "localhost", "port": "59001"}

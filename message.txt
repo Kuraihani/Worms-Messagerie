@@ -1,0 +1,1 @@
+{"message": [{"isGame": false, "text_message": "Bienvenue sur worms"}]}
